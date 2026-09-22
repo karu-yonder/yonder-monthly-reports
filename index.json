@@ -1,0 +1,22 @@
+{
+  "variants": [
+    {
+      "id": "no-results",
+      "file": "no-results.html",
+      "label": "On plan, no results",
+      "apId": 123,
+      "apName": "Infinity Applications",
+      "month": "August 2026",
+      "notes": "All three products on plan. Chatbot zeros, voice and reviews dashes, smart summaries empty state."
+    },
+    {
+      "id": "all-upsell",
+      "file": "all-upsell.html",
+      "label": "Not on plan, all upsell",
+      "apId": 123,
+      "apName": "Infinity Applications",
+      "month": "August 2026",
+      "notes": "No enabled chatbot, voice, or reviews plan. Three sales blocks with Explore CTAs."
+    }
+  ]
+}
